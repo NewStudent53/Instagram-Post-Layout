@@ -22,7 +22,7 @@ body {
     align-items: center;
 }
 
-.icon-header1 {
+.header1 {
     margin-left: 10px;
     margin-right: 5px;
 }
@@ -35,11 +35,11 @@ body {
     margin: 2px
 }
 
-.icon-header2 {
+.header2 {
     margin-right: 10px;
 }
 
-.post-img {
+.back-img {
     height: 400px;
     margin-bottom: 10px;
 }
@@ -58,8 +58,4 @@ img {
 
 .text-container {
     padding: 15px;
-}
-
-.text-body {
-    font-size: 14px;
 }
